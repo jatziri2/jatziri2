@@ -1,5 +1,5 @@
 ### Hello everyone, I'm Jatziri! 👋
-My name is Jatziri Linares Ríos, I'm 20 years old, and I live in Mexico, Mexico. I'm currently studying computer science at the National Autonomous University of Mexico, and I would like to focus on databases.
+My name is Jatziri Linares Ríos, I'm 21 years old, and I live in Mexico, Mexico. I'm currently studying computer science at the National Autonomous University of Mexico, and I would like to focus on databases.
 ## My interests
 * Computer animation
 * Databases
